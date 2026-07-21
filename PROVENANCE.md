@@ -1,0 +1,5 @@
+# Provenance status
+
+Observed facts: this directory contains numbered React course folders, handouts, slides, examples, solutions, and ZIP archives. The local repository records origin URL `https://github.com/eakarsu/react`, commit `33dfd033577b527056fe0a892fee57f6cf484ff5`, tree `a74e424ccf72d10d362e53bcd9de42cb03010d83`, one 2021 commit, 140 tracked files, and no root application manifest or license file. A repository location and commit author are custody evidence, not proof of authorship, ownership, or permission.
+
+Unknown claims: original course author and primary source, acquisition history, copyright ownership, license/redistribution/derivative-use permission, supported React/course version, and accountable product and security maintainers. No publication or derivative-use permission is inferred. A named steward must resolve every field from primary evidence before extraction or sharing, record the approved source revision and license notices, and replace rather than silently mutate this immutable snapshot.

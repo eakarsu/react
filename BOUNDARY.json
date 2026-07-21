@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "artifactId": "react-course-materials-archive",
+  "artifactType": "course-material-archive",
+  "disposition": "retain-internal-quarantine",
+  "deployableApplication": false,
+  "runtimeAcceptance": "not_applicable",
+  "loginAcceptance": "not_applicable",
+  "allowedOperations": ["inventory", "integrity-check", "owner-approved-extraction"],
+  "prohibitedOperations": ["deploy", "publish", "redistribute", "execute-in-place"],
+  "baseline": {
+    "repositoryOriginObserved": "https://github.com/eakarsu/react",
+    "sourceCommit": "33dfd033577b527056fe0a892fee57f6cf484ff5",
+    "sourceTree": "a74e424ccf72d10d362e53bcd9de42cb03010d83",
+    "trackedFiles": 140,
+    "trackedBytes": 84188336,
+    "protectedPayloadFiles": 139,
+    "protectedPayloadBytes": 84188329,
+    "zipArchives": 74,
+    "zipEntries": 1593,
+    "zipCompressedBytes": 83367674,
+    "zipDeclaredUncompressedBytes": 107610399
+  },
+  "updateStrategy": "immutable-until-owner-approved-replacement",
+  "securityPatching": "not-executable; no patch support; steward assignment required before extraction",
+  "unresolved": ["accountable-owner", "primary-source-provenance", "license-permission", "supported-version", "security-patching-owner"]
+}
